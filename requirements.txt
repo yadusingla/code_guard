@@ -1,0 +1,8 @@
+requests
+pylint
+flake8
+PyGithub
+bandit
+python-dotenv
+openai==0.28
+anthropic
